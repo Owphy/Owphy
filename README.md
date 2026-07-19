@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**Owphy/Owphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ivan
 
-Here are some ideas to get you started:
+Software Engineer | Fullstack & Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about designing scalable software and solving real-world problems through technology. Experienced in Python, Java, SQL, HTML, CSS, and REST APIs, with a strong foundation in software architecture, object-oriented programming, and database design.
+
+Focused on writing clean, maintainable code while continuously learning and improving. Here you'll find projects related to web development, backend systems, and software engineering.
+
+### About me
+
+- Software Engineer
+- Backend & Web Developer
+- Strong analytical and problem-solving mindset
+- Continuous learner
+
+###GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Owphy&theme=dark)](https://git.io/streak-stats)
+
+### Tech Stack
+
+**Languages**
+
+- Python
+- C#
+- Java
+- SQL
+- HTML
+- CSS
+- C
+
+**Databases**
+
+- MySQL
+- SQL Server
+
+**Tools**
+
+- Git
+- GitHub
+- VS Code
+- Jira
+
+---
+
+*"Code is not just about making things work; it's about creating solutions that are scalable, maintainable, and meaningful."*
