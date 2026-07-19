@@ -7,6 +7,11 @@ Passionate about designing scalable software and solving real-world problems thr
 
 Focused on writing clean, maintainable code while continuously learning and improving. Here you'll find projects related to web development, backend systems, and software engineering.
 
+### GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Owphy&theme=dark)](https://git.io/streak-stats)
+
+
 ### About me
 
 - Software Engineer
@@ -14,9 +19,6 @@ Focused on writing clean, maintainable code while continuously learning and impr
 - Strong analytical and problem-solving mindset
 - Continuous learner
 
-### GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Owphy&theme=dark)](https://git.io/streak-stats)
 
 ### Tech Stack
 
