@@ -12,30 +12,14 @@ Focused on writing clean, maintainable code while continuously learning and impr
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Owphy&theme=dark)](https://git.io/streak-stats)
 
 
-### Tech Stack
+## Tech Stack
 
-**Languages**
 
-- Python
-- C#
-- Java
-- SQL
-- HTML
-- CSS
-- C
-
-**Databases**
-
-- MySQL
-- SQL Server
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Jira
-
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | Python • C# • Java • SQL • HTML • CSS • C |
+| **Databases** | MySQL • SQL Server |
+| **Tools** | Git • GitHub • Visual Studio Code • Jira |
 ---
 
 *"Code is not just about making things work; it's about creating solutions that are scalable, maintainable, and meaningful."*
