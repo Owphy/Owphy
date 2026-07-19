@@ -14,7 +14,8 @@ Focused on writing clean, maintainable code while continuously learning and impr
 - Strong analytical and problem-solving mindset
 - Continuous learner
 
-###GitHub Stats
+### GitHub Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Owphy&theme=dark)](https://git.io/streak-stats)
 
 ### Tech Stack
