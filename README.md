@@ -12,14 +12,6 @@ Focused on writing clean, maintainable code while continuously learning and impr
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Owphy&theme=dark)](https://git.io/streak-stats)
 
 
-### About me
-
-- Software Engineer
-- Backend & Web Developer
-- Strong analytical and problem-solving mindset
-- Continuous learner
-
-
 ### Tech Stack
 
 **Languages**
