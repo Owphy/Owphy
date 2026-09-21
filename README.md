@@ -19,7 +19,7 @@ Focused on writing clean, maintainable code while continuously learning and impr
 |----------|--------------|
 | **Languages** | Python • C# • Java • SQL • HTML • CSS • C |
 | **Databases** | MySQL • SQL Server |
-| **Tools** | Git • GitHub • Visual Studio Code • Jira |
+| **Tools** | Git • GitHub • Visual Studio Code  |
 ---
 
 *"Code is not just about making things work; it's about creating solutions that are scalable, maintainable, and meaningful."*
