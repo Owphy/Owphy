@@ -17,7 +17,7 @@ Focused on writing clean, maintainable code while continuously learning and impr
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python • C# • Java • SQL • HTML • CSS • C |
+| **Languages** | Java • SQL • HTML • CSS • C |
 | **Databases** | MySQL • SQL Server |
 | **Tools** | Git • GitHub • Visual Studio Code  |
 ---
